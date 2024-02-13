@@ -1,5 +1,5 @@
 import Button from './UI/Button.tsx';
-import { TimersContext, useTimersContext } from '../store/timers-context.tsx';
+import { useTimersContext } from '../store/timers-context.tsx';
 
 export default function Header() {
   const timersCtx = useTimersContext();
