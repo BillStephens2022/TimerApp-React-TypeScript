@@ -18,7 +18,7 @@
   
   ## Installation
   
-  Deployed URL: https://billstephens2022.github.io/TimerApp-React-Typescript/"
+  Deployed URL: https://billstephens2022.github.io/TimerApp-React-TypeScript/
   
   ## Usage
   
